@@ -1,0 +1,8 @@
+{
+  "name": "GuruAI: Indian School Tutor",
+  "description": "An intelligent AI tutor specifically designed for students in 8th, 9th, and 10th standards in India, covering CBSE, ICSE, and State Board curricula with interactive lessons, quiz generation, and doubt clearing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
